@@ -1,0 +1,2 @@
+Computable<A, V> 接口中函数computable输入类型为A 输出类型为V，
+Memoizer 类实现了computable方法并实现了单机多线程安全并发计算并返回计算结果，并将相同计算条件的结果存入缓存，便于直接获取之前的计算结果
