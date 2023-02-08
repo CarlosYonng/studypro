@@ -4,7 +4,7 @@
  * 规定五个人只要都跑到终点了，大家可以喝啤酒。但是，只要有一个人没到终点，就不能喝。
  * 这里也没有要求大家要同时起跑(当然也可以，加latch)
  * **/
-package com.study.lock;
+package com.study.lock.example;
 
 import java.util.concurrent.BrokenBarrierException;
 import java.util.concurrent.CyclicBarrier;

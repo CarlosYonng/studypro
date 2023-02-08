@@ -1,4 +1,4 @@
-package com.study.example.filecrawler;
+package com.study.filecrawler.example;
 
 import java.io.File;
 import java.io.FileFilter;
@@ -75,7 +75,7 @@ public class IndexingService {
 
         public void indexFile(File file) {
             /*...*/
-        };
+        }
     }
 
     public void start() {

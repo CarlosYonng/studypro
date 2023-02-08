@@ -1,4 +1,4 @@
-package com.study.example.filecrawler;
+package com.study.filecrawler.example;
 
 import java.io.File;
 import java.io.FileFilter;
